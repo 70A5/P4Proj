@@ -24,5 +24,6 @@ Dit is hem dan
 
 #### Hoe benader ik de API?
 
-https://media.giphy.com/media/7FrOU9tPbgAZtxV5mb/giphy.gif
+
+![](https://media.giphy.com/media/5fBH6zsQ5HVp73dNB9m/giphy.gif)
 
