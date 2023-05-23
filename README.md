@@ -3,7 +3,7 @@
 
 Dit is hem dan, veel plezier met ontwikkelen.
 
-
+![](https://media.giphy.com/media/5fBH6zsQ5HVp73dNB9m/giphy.gif)
 
 
 #### API gebruik
@@ -23,7 +23,3 @@ Dit is hem dan, veel plezier met ontwikkelen.
 ## FAQ
 
 #### Hoe benader ik de API?
-
-
-![](https://media.giphy.com/media/5fBH6zsQ5HVp73dNB9m/giphy.gif)
-
