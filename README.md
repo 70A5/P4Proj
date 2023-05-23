@@ -12,11 +12,11 @@ Dit is hem dan
   GET /api/items
 ```
 
-| Parameter  | Type     | Beschrijving                       |
-| :--------- | :------- | :--------------------------------- |
-| `Username` | `string` | **Verplicht**. Jouw Gebruikersnaam |
-| `Apikey`   | `string` | **Verplicht**. Jouw API Sleutel    |
-| `Password` | `string` | **Verplicht**. Jouw Wachtwoord     |
+| Parameter  | Type     | Beschrijving                         |
+| :--------- | :------- | :----------------------------------- |
+| `Username` | `string` | **Verplicht**. - Jouw Gebruikersnaam |
+| `Apikey`   | `string` | **Verplicht**. - Jouw API Sleutel    |
+| `Password` | `string` | **Verplicht**. - Jouw Wachtwoord     |
 
 
 
@@ -24,5 +24,5 @@ Dit is hem dan
 
 #### Hoe benader ik de API?
 
-Weet ik veel
+https://media.giphy.com/media/7FrOU9tPbgAZtxV5mb/giphy.gif
 
