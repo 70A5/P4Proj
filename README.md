@@ -18,7 +18,7 @@ Dit is hem dan, veel plezier met ontwikkelen.
 | `Apikey`   | `string` | **Verplicht**. - Jouw API Sleutel    |
 | `Password` | `string` | **Verplicht**. - Jouw Wachtwoord     |
 
-##########Verdere documentatie volgt
+###### Verdere documentatie volgt
 
 ## FAQ
 
