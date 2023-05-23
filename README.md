@@ -12,6 +12,9 @@ Dit is hem dan
   GET /api/items
 ```
 
-| Parameter | Type     | Beschrijving                    |
-| :-------- | :------- | :------------------------------ |
-| `api_key` | `string` | **Verplicht**. Jouw API Sleutel |
+| Parameter  | Type     | Beschrijving                       |
+| :--------- | :------- | :--------------------------------- |
+| `api_key`  | `string` | **Verplicht**. Jouw API Sleutel    |
+| `username` | `string` | **Verplicht**. Jouw Gebruikersnaam |
+| `password` | `string` | **Verplicht**. Jouw Wachtwoord     |
+
