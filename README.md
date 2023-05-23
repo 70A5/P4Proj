@@ -9,7 +9,7 @@ Dit is hem dan, veel plezier met ontwikkelen.
 #### API gebruik
 
 
-##Variabelen
+## Variabelen
 
 | Parameter  | Type     | Beschrijving                         |
 | :--------- | :------- | :----------------------------------- |
