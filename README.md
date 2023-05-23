@@ -14,7 +14,15 @@ Dit is hem dan
 
 | Parameter  | Type     | Beschrijving                       |
 | :--------- | :------- | :--------------------------------- |
-| `api_key`  | `string` | **Verplicht**. Jouw API Sleutel    |
-| `username` | `string` | **Verplicht**. Jouw Gebruikersnaam |
-| `password` | `string` | **Verplicht**. Jouw Wachtwoord     |
+| `Username` | `string` | **Verplicht**. Jouw Gebruikersnaam |
+| `Apikey`   | `string` | **Verplicht**. Jouw API Sleutel    |
+| `Password` | `string` | **Verplicht**. Jouw Wachtwoord     |
+
+
+
+## FAQ
+
+#### Hoe benader ik de API?
+
+Weet ik veel
 
