@@ -8,7 +8,7 @@ try {
         global $pdo;
 
         // Prepare and execute the query to check if the user exists
-        $query = "SELECT * FROM users WHERE username = :username AND pin = :password";
+        $query = "SELECT * FROM users WHERE username = :username AND password = :password";
         $stmt = $pdo->prepare($query);
         $stmt->bindParam(':username', $username);
         $stmt->bindParam(':password', $password);
